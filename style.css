@@ -23,6 +23,11 @@ body {
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
   }
+
+ .button {
+   background-color: #DEDEDE;
+   border-radius: 20px;
+ }
   
   /* unvisited link */
   a:link {
