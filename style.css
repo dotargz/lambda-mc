@@ -4,6 +4,10 @@ body {
     font-size: 4vw;
     background-image: linear-gradient(-20deg, #e9defa 0%, #fbfcdb 100%);
   }
+
+  p {
+      font-size: small;
+  }
   
   .content {
     position: absolute;
