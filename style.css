@@ -1,0 +1,47 @@
+body {
+    color: black;
+    font-family: 'Red Hat Display', sans-serif;
+    font-size: 4vw;
+    background-image: linear-gradient(-20deg, #e9defa 0%, #fbfcdb 100%);
+  }
+  
+  .content {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
+  
+  .grad {
+    background-image: linear-gradient(120deg, #fccb90 0%, #d57eeb 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  
+  /* unvisited link */
+  a:link {
+    color: white;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: white;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    background-image: linear-gradient(120deg, #fccb90 0%, #d57eeb 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  
+  /* selected link */
+  a:active {
+    background-image: linear-gradient(120deg, #fccb90 0%, #d57eeb 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
