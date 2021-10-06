@@ -26,6 +26,9 @@ body {
 
  .button {
   background-image: linear-gradient(to top, #00c6fb 0%, #005bea 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
  }
   
   /* unvisited link */
