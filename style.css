@@ -25,11 +25,7 @@ body {
   }
 
  .button {
-   background-color: #DEDEDE;
-   border-radius: 15px;
-   padding: 0.5px;
-   padding-left: 0.5px;
-   padding-right: 0.5px;
+  background-image: linear-gradient(to top, #00c6fb 0%, #005bea 100%);
  }
   
   /* unvisited link */
