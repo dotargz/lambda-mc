@@ -1,2 +1,2 @@
 # lambda-mc
-A Simple Minecraft Server Website
+A Simple HTML Minecraft Server Website
