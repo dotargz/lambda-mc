@@ -2,11 +2,11 @@ body {
     color: black;
     font-family: 'Red Hat Display', sans-serif;
     font-size: 4vw;
-    background-image: linear-gradient(-20deg, #e9defa 0%, #fbfcdb 100%);
+    background-image: linear-gradient(to top, #dfe9f3 0%, white 100%);
   }
 
   p {
-      font-size: small;
+      font-size: x-large;
   }
   
   .content {
@@ -18,7 +18,7 @@ body {
   }
   
   .grad {
-    background-image: linear-gradient(120deg, #fccb90 0%, #d57eeb 100%);
+    background-image: background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
