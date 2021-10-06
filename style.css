@@ -26,8 +26,8 @@ body {
 
  .button {
    background-color: #DEDEDE;
-   border-radius: 10px;
-   padding: 1px;
+   border-radius: 15px;
+   padding: 0.5px;
    padding-left: 0.5px;
    padding-right: 0.5px;
  }
