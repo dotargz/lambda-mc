@@ -1,18 +1,18 @@
 body {
     color: black;
     font-family: 'Red Hat Display', sans-serif;
-    font-size: 4vw;
+    font-size: 5vw;
     background-color: white;
     text-align: center;
   }
 
   p {
     font-size: x-large;
-    margin-top:0px;
+    margin: auto;
   }
   
   .content {
-    margin: 25px;
+    margin: auto;
   }
   
   .grad {
