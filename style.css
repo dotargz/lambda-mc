@@ -3,7 +3,7 @@ body {
     font-family: 'Red Hat Display', sans-serif;
     font-size: 5vw;
     background-color: white;
-    text-align: center;
+    text-align: left;
   }
 
   p {
@@ -12,6 +12,7 @@ body {
   }
   
   .content {
+    padding-left: 10px;
     margin: auto;
   }
   
