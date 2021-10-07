@@ -47,14 +47,3 @@ a:active {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
-
-.circleBase {
-  border-radius: 50%;
-}
-
-.type1 {
-  width: 100px;
-  height: 100px;
-  background: black;
-  border: none;
-}
