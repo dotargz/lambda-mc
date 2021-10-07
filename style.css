@@ -3,17 +3,15 @@ body {
     font-family: 'Red Hat Display', sans-serif;
     font-size: 5vw;
     background-color: white;
-    text-align: left;
+    text-align: center;
   }
 
   p {
     font-size: x-large;
-    margin: auto;
   }
   
   .content {
-    padding-left: 1vw;
-    margin: 0px;
+    margin: auto;
   }
   
   .grad {
