@@ -15,21 +15,20 @@ body {
   transform: translateX(-50%) translateY(-50%);
 }
 
-.grad {
+/* unvisited link */
+a:link {
   background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
-/* unvisited link */
-a:link {
-  color: white;
-}
-
 /* visited link */
 a:visited {
-  color: white;
+  background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 /* mouse over link */
